@@ -1,0 +1,2 @@
+Input `num1` and `num2` are string, so when we do `result = num1 + num2`, `result` will be a string, concatenation of `num1` and `num2`
+use function `parseInt()` to convert string to integer, `num1` and `num2` are now integer and return proper result: `let result = parseInt(num1) + parseInt(num2);`
